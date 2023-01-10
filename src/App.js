@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import ShopItemFunc from './components/ShopItemFunc';
 import './css/main.css';
 
 function App() {
